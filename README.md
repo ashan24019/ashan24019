@@ -37,4 +37,26 @@
   <a href="https://linkedin.com/in/your-link"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="mailto:ashanvimodh@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg?color=ffffff" height="30" width="40" title="Gmail" /></a>
   <a href="https://facebook.com/your-facebook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30
+  <a href="https://instagram.com/your-instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
+
+## 🛠️ Top Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python,ts,react,nextjs,nodejs,django,html,css,tailwind,mysql,sqlite,postgresql,firebase,figma,git,linux,vscode" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashanvimodh&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanvimodh&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashanvimodh&theme=radical&hide_border=true" />
+</p>
+
+## ⚡ Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashanvimodh&bg_color=000000&color=ff6347&line=63f7f7&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
