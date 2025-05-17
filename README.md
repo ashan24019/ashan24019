@@ -17,9 +17,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=ashan24019&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💫 About Me
-<picture>
-  <img align="right" src="https://i.pinimg.com/736x/6d/cd/36/6dcd3671b80731bfe80c5852717f7860.jpg" width="200px"/>
-</picture>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-FullStack%20Development-dodgerblue" />
