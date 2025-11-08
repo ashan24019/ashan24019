@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hey+there!+I'm+Ashan+Vimodh;Happy+to+see+you+here+👨‍💻✨" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hey+there!;Happy+to+see+you+here+👨‍💻✨" alt="Title"></img>
 </div>
 
 <h1></h1>
@@ -33,8 +33,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashanvimodh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="mailto:ashanvimodh241@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg?color=ffffff" height="30" width="40" title="Gmail" /></a>
-  <a href="https://www.facebook.com/ashan.vimodh.75"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/ashanvimodh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Top Skills & Tools
