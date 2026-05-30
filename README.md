@@ -2,7 +2,7 @@
 
 # Ashan Vimodh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=AI+%2F+ML+Engineering+Student;Full+Stack+Developer;Building+Intelligent+Systems;Turning+Data+into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=Software+Engineering+Student;Full+Stack+Developer;Building+Intelligent+Systems;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 <br/>
 
